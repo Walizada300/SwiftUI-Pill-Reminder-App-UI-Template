@@ -1,6 +1,6 @@
 # 💊 SwiftUI Pill Reminder App UI Template
 
-![SwiftUI Pill Reminder](https://github.com/user-attachments/assets/9b99095e-0277-4316-9ad1-744e577c6a9d)
+![th rem](https://github.com/user-attachments/assets/e604688c-e77e-48bc-8776-7521c371164a)
 
 ---
 

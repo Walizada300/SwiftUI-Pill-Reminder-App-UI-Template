@@ -41,5 +41,5 @@ This UI was created in **two simple pages**, focusing on elegance, clarity, and 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/pill-reminder-swiftui-template.git
+   git clone https://github.com/Walizada300/SwiftUI-Pill-Reminder-App-UI-Template.git)
    ```
